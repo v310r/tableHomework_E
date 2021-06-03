@@ -8,4 +8,4 @@ Elenokabajakabumaka,No refug,4,2
 Mit,Bit,3.76,5
 Zakto,Macto,4.3,10
 Malacalabukakatukartukakuk,Erkogarisimonakovisokal,31.45,9
-Banaur,Ikikitomori,200,7
+Banaur,Ikikitomori,4.43543543534,7
